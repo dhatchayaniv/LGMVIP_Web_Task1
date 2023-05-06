@@ -148,3 +148,16 @@ main {
 .task .actions .delete {
 	color: black;
 }
+@media screen and (max-width:600){
+body {
+	display: flex;
+	flex-direction: column;
+	background-image: url("list.jpg");
+	background-repeat: no-repeat,repeat;
+	background-size: 100%;
+    background-size: cover;
+	
+}	
+	
+	
+}
