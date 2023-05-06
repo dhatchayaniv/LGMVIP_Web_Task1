@@ -148,7 +148,7 @@ main {
 .task .actions .delete {
 	color: black;
 }
-@media screen and (max-width:600){
+@media screen and (max-width:600px){
 body {
 	display: flex;
 	flex-direction: column;
