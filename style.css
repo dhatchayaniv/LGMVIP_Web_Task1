@@ -10,6 +10,7 @@ body {
 	background-image: url("list.jpg");
 	background-repeat:repeat;
 	background-size: 100%;
+	width:100%;
 	
 }
 
@@ -154,6 +155,7 @@ body {
 	background-image: url("list.jpg");
 	background-repeat: repeat;
 	background-size: 100%;
+	width:100%;
     
 	
 }	
